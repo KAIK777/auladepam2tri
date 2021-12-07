@@ -18,7 +18,7 @@ Site simples pra comecar o aprendizado da tecnologia PWA
 ### Clonando este repositorio
 
 ```sh
-$ git clone https://github.com/Kaique2001/aprendendopwa.git
+$ git clone https://github.com/KAIK777/auladepam2tri.git
 $ cd aprendendopwa
 $ heroku create
 $ git push heroku main
